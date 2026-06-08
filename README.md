@@ -50,9 +50,7 @@ Student Performance Prediction Dataset
 | Column Name                | Description               |
 | -------------------------- | ------------------------- |
 | Student_ID                 | Unique student identifier |
-| Gender                     | Male/Female               |
 | Study_Hours_per_Week       | Weekly study hours        |
-| Attendance_Rate            | Attendance percentage     |
 | Past_Exam_Scores           | Previous exam scores      |
 | Parental_Education_Level   | Parents education level   |
 | Internet_Access_at_Home    | Internet availability     |
